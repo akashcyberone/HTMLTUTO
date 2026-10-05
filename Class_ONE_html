@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta>
+        <title>First html page
+        </title>
+    </head>
+     <body>
+      <h1>Hello learner</h1>
+      <h3>BIST</h3>
+      <P>Lorem ipsum <b>dolor sit,</b>  <u>amet consectetur adipisicing</u>  elit. 
+        Odio iste alias corporis <mark><u><i>sapiente qui asperiores</i></u></mark> dolores voluptatibus ab perspiciatis fuga, expedita quo pariatur modi. 
+        Incidunt tempore recusandae officia voluptas minus?</P>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+            Placeat obcaecati quae accusamus corporis reiciendis<br> expedita aspernatur et repudiandae 
+            <mark>soluta quasi modi</mark> 
+
+            facilis facere quaerat, quis similique quisquam perspiciatis ea tempore.</p>
+            <hr>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                Voluptates, a labore repellat dolorem harum dolores dicta possimus 
+                laudantium unde fugit maiores nisi nobis, veniam vol
+                uptatibus, corporis porro et beatae incidunt.</p>
+     </body>
+</html>
