@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta>
+        <title>My Introduction</title>
+        <body>
+        <h1>
+            <mark>Professional Self Introduction</mark>
+        </h1>
+        <u><h2><mark>1. Introduction</mark></h2></u>
+        <p>Good morning, sir/madam. First of all, thank you for giving me this opportunity to introduce myself. My name is Akash Kumar, and I am from Madhya Pradesh. <br>I am a Computer Science and Engineering student with a strong interest in software development, <b>artificial intelligence, and problem-solving.</b></p></p>
+        <br><hr>
+        <u><h2><mark>2. Education</mark></h2></u>
+        <p>I am currently pursuing my Bachelor of Technology in Computer Science and Engineering from <b>Bansal Institute of Science and Technology, Bhopal.</b> During my academic journey, I have developed a strong interest in programming, software development, and emerging technologies.</p>
+        <br><hr>
+        <u><h2><mark>3. Technical Skills</mark></h2></u>
+        <p>Talking about my technical skills, I have knowledge of C++, Python, HTML, CSS, JavaScript, and React.js. I also have experience with backend technologies such as Node.js and Express.js, along with REST APIs and database technologies. I am also interested in AI and API integration.</p>
+        <br><hr>
+        <u><h2><mark>4.Coding & DSA</mark></h2></u>
+        <p>I have a strong interest in Data Structures and Algorithms and regularly practice coding problems. I use platforms such as LeetCode and GeeksforGeeks to improve my problem-solving and logical thinking skills. I also participate in coding contests and technical challenges to test and improve my programming abilities.</p>
+        <br><hr>
+        <u><h2><mark>5.Projects</mark></h2></u>
+        <p>I have worked on several projects related to web development and artificial intelligence. Through these projects, I have gained practical experience in frontend and backend development, API integration, database handling, and building technology-based solutions for real-world problems.</p>
+        <br><hr>
+        <u><h2><mark>6. Achievements</mark></h2></u>
+        <p>Talking about my achievements, I have participated in coding competitions, technical events, and other challenges. I have also worked on improving my competitive programming and technical skills through regular practice. If you have specific achievements such as winning a coding competition, hackathon, or obtaining a particular rank, I would mention them here with specific details.</p>
+        <br><hr>
+        <mark><u><h2><mark>7. Strengths</mark></h2></u></mark>
+        <p>My key strengths are problem-solving, quick learning, adaptability, teamwork, and consistency. Whenever I face a difficult technical problem, I try to understand it step by step and find an efficient solution.</p>
+        <br><hr>
+        <u><h2><mark>8. Hobbies</mark></h2></u>
+        <P>Apart from academics and technology, my hobby is playing cricket, especially batting and bowling. Playing cricket has helped me develop qualities such as teamwork, discipline, focus, patience, and decision-making, which I believe are also valuable in a professional environment.</P>
+        <br><hr>
+        <u><h2><mark>9. Career Goal</mark></h2></u>
+        <p>My short-term goal is to start my career in a reputed organization where I can apply my technical knowledge, gain practical industry experience, and learn from experienced professionals. In the long term, I want to become a skilled software engineer and contribute to building innovative and impactful technology solutions.</p>
+        <br><hr>
+        <u><h2><mark>10. Closing</h2></mark></u>
+        <p>That's a brief introduction about me. Thank you for giving me the opportunity to introduce myself. I would be happy to answer any questions you may have.</p>
+        <br><hr>
+        <u><h3>Best order to remember:- </h3></u>
+        <b><p><mark>Introduction → Education → Technical Skills → Coding/DSA → Projects → Achievements → Strengths → Hobbies → Career Goal → Closing</mark></p></b>
+        </body>
+    </head>
+</html>
+
+
