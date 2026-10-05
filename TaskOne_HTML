@@ -3,6 +3,7 @@
     <head>
         <meta>
         <title>My Introduction</title>
+        <link rel="stylesheet" href="one.css">
         <body>
         <h1>
             <mark>Professional Self Introduction</mark>
@@ -39,6 +40,13 @@
         <br><hr>
         <u><h3>Best order to remember:- </h3></u>
         <b><p><mark>Introduction → Education → Technical Skills → Coding/DSA → Projects → Achievements → Strengths → Hobbies → Career Goal → Closing</mark></p></b>
+        <style>
+            p{
+    color: blue;
+    font-size: 20px;
+    
+}
+        </style>
         </body>
     </head>
 </html>
