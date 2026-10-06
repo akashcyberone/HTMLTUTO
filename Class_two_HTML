@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta>
+        <title>My Introduction</title>
+        <link rel="stylesheet" href="one.css">
+        <body>
+        <h1>
+            Ths ia a image of Nature
+        </h1>
+        <img src="https://th.bing.com/th?id=OIF.eBuyv78s6DDMUTXKwv3T%2bA&r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Nature">
+        <br><hr>
+        <p>This a image of two mature</p>
+        <img src="nature.jpg" alt="Nature 2" width="200px">
+        <br><hr>
+        <a href="https://www.google.com/">Google</a>
+        <br>
+        <a href="https://akashkumarcs-portfolio.netlify.app/" target="_blank"><img src="nature.jpg" alt="Akash One" width="100px">One</a>
+        <a href="about.html" target="_blank">About Us</a>
+
+        <ol type="i">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>ReactJs</li>
+        </ol>
+        <br>
+        <ol start="11">
+            <li>Noodejs</li>
+            <li>Epressjs</li>
+            <li>Mysql</li>
+        </ol>
+        </body>
+    </head>
+</html>
