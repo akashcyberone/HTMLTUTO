@@ -1,0 +1,6 @@
+let arr=[45,77,99,90,110,100,120,113];
+
+let newarr=arr.filter((val)=>{
+    return val>=90;
+});
+console.log(newarr);
