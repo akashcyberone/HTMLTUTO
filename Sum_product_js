@@ -14,7 +14,7 @@ let sum=arr.reduce((res,val)=>{
 console.log("Sum= ",sum);
 
 let prod=arr.reduce((res,val)=>{
-    return res+val;
+    return res*val;
 });
 
 console.log("Prod= ",prod);
