@@ -1,0 +1,8 @@
+function print(arr){
+    arr.forEach((val)=>{
+        console.log(val);
+    });
+}
+let arr=prompt("Enter the number").split(" ").map(Number);
+
+print(arr);
