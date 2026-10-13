@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduce In a School</title>
+</head>
+<body>
+    <h1>GYAN KUNJ EX. HS SCHOOL PATHARIYA SIRONJ MP</h1>
+    <img src="logogyan.png" alt="GYAN KUNJ" width="100PX">
+    <ol>
+        <li>Home
+            <h3>Welcome to JKAS School</h3>
+            <dd>Welcome to JKAS School, where education meets excellence. We are committed to providing quality education, developing strong values, 
+                and helping students achieve their academic goals in a supportive learning environment.</dd>
+                <br>
+                <p>Our Motto: Learn, Grow, and Succeed.</p>
+        </li>
+        <li>About Us
+            <dd>JKAS School is dedicated to providing quality education and building a strong foundation for students. 
+                We focus on academic excellence, discipline, creativity, and the overall development of every student.</dd>
+                <br>
+                <dd>Our aim is to prepare students for a successful future by providing a positive and encouraging educational environment.</dd>
+        </li>
+        <li><b>Our Vision and Mission</b>
+            <dd>Vision: To become a leading educational institution that inspires students to learn, innovate, and succeed.</dd>
+            <br>
+            <dd>Mission: To provide quality education, develop moral values, encourage critical thinking, and prepare students to face future challenges with confidence.</dd>
+        </li>
+        <li><b>Academics</b>
+            <dd>JKAS School provides education from Class 1 to Class 12, with learning opportunities for students at different academic levels.</dd>
+            <br>
+            <ul>
+                <li>Primary Classes: Class 1 to Class 5</li>
+                <li>Middle Classes: Class 6 to Class 8</li>
+                <li>Secondary Classes: Class 9 and Class 10</li>
+                <li>Senior Secondary Classes: Class 11 and Class 12</li>
+            </ul>
+        </li>
+        <br>
+        <li><b>Medium of Education</b>
+            <dd>JKAS School provides educational opportunities in both Hindi and English mediums,
+                 helping students learn in a language that supports their understanding and academic development.</dd>
+        </li>
+        <br>
+        <li><b>Class 10th Subjects</b>
+            <dd>Students in Class 10 study subjects according to the applicable school board curriculum.</dd>
+            <br>
+            <ul>
+                <li>Hindi</li>
+                <li>English</li>
+                <li>Science</li>
+                <li>Maths</li>
+                <li>Social Science</li>
+            </ul>
+        </li>
+        <li><b>Class 11th and 12th Streams</b>
+            <dd>JKAS School offers the following streams for senior secondary students, subject to the school's available courses.</dd>
+        <br>
+        <ol>
+            <li>Science Stream
+                <ul>
+                    <li>Physics</li>
+                    <li>Chemistry</li>
+                    <li>Mathematics (PCM)</li>
+                    <li>Biology (PCB)</li>
+                    <li>English</li>
+                </ul>
+            </li>
+            <li>Commerce Stream
+                <ul>
+                    <li>Accountancy</li>
+                    <li>Business Studies</li>
+                    <li>Economics</li>
+                    <li>English</li>
+                    <li>Other subjects as prescribed by the board</li>
+                </ul>
+                <p>Other Subjects: Additional subjects may be available according to the school's curriculum.</p>
+            </li>
+        </ol>
+        </li>
+        <li><b>School Facilities</b>
+            <ol>
+                <li>Transportation Facility
+                    <dd>JKAS School provides bus and van transportation facilities to help students travel safely and conveniently between home and school. Routes and availability depend on the school's transport arrangements.</dd>
+                </li>
+                <li>Other Facilities
+                    <ul>
+                        <li>Classrooms</li>
+                        <li>Academic learning resources</li>
+                        <li>Sports and extracurricular activities</li>
+                        <li>Student guidance and support</li>
+                    </ul>
+                </li>
+            </ol>
+        </li>
+        <li><b>Activities and Events</b>
+            <dd>JKAS School encourages students to participate in activities that support confidence,
+                 teamwork, creativity, and personal development.</dd>
+            <ul>
+                <li>Sports competitions</li>
+                <li>Cultural programs</li>
+                <li>National festival celebrations</li>
+                <li>Educational activities</li>
+                <li>Student competitions</li>
+            </ul>
+        </li>
+        <li><b> Admissions</b>
+            <dd>JKAS School welcomes students who wish to continue their educational journey in a supportive learning environment.</dd>
+            <ol>
+                <li>Admission Information
+                    <ul>
+                        <li>Admission enquiry</li>
+                        <li>Required documents</li>
+                        <li>Class-wise admission details</li>
+                        <li>Fee structure</li>
+                        <li>Transport facility details</li>
+                    </ul>
+                </li>
+                <p>For admission-related information, please contact the school office.</p>
+            </ol>
+        </li>
+        <li><b>Contact Us</b>
+        <br>
+        <ol>
+            <li>Name :- GYAN KUNJ EX HS SCHOOL PATHARIYA SIRONJ MP</li>
+            <li>Address: - Pathariye Sironj Vidisha MP </li>
+            <li>Phone: 78059194011</li>
+            <li>Email: - gyankunj@ac.in</li>
+            <li>School Timings: 8:00 AM TO 4:30 PM</li>
+            <li>Location: <a href="https://maps.app.goo.gl/4ipJ5RuTAL8F65Zw7" target="_blank" rel="noopener noreferrer">GYAN KUNJ EX HS SCHOOL PATHARIYA</a>
+            </li>
+            <li>Social Media : - <a href="https://www.instagram.com/gyankunjex.h.s.schoolpathariya/" target="_blank">Visit Socail Media</a></li>
+        </ol>
+        </li>
+        <li><b>Footer</b>
+        <p>© 2026 JKAS School. All Rights Reserved.</p>
+        <p>Providing Education, Building Futures.</p>
+        </li>
+    </ol>
+</body>
+</html>
