@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello</title>
+    </head>
+    <body>
+        <p>Hello Learner</p>
+        <ul>
+            <li>Full stcak
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JS</li>
+                </ul>
+                <ol>Backend
+                    <img src="backend.png" alt="Backend image" width="100px">
+                    <li>Node JS</li>
+                    <img src="node.jpg" alt="Node js image" width="100px">
+                    <li>Express Js</li>
+                    <img src="express.png" alt="Express image" width="100px">
+                    <li>MongoDB</li>
+                    <img src="mongo.jpg" alt="MongoDB image" width="100px">
+                </ol>
+               
+            </li>
+        </ul>
+    </body>
+</html>
