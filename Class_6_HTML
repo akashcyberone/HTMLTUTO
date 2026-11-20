@@ -72,6 +72,17 @@
             JK 
         </option>
        </select>
+       <br>
+       <textarea placeholder="comments"></textarea>
+       <br>
+       <button type="summit">Add data</button>
+       <br>
+       <input type="reset">
+       <hr> <br>
+       <details>
+          <summary>Login form</summary>
+          <p>This is login form</p>
+       </details>
     </form>
 </body>
 </html>
