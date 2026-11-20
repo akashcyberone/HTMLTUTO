@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Form</title>
+</head>
+<body>
+    <h1>Student Enrolment </h1>
+    <form action="">
+        <label for="">
+            ENTER FULL NAME
+        </label>
+        <input type="text" placeholder="Your Name">
+        <hr>
+        <label for="">Enter Your EMAIL</label>
+        <input type="email" placeholder="exampe@gmail.com">
+        <hr>
+        <label for="">Enter password
+            <input type="password">
+        </label>
+        <hr>
+        <label for="">Your Address</label>
+        <input type="text" placeholder="Enter your address">
+        <hr>
+        <label for="">Image <input type="file"></label>
+        <hr>
+        <label for="">I agree1 
+            <input type="checkbox"></label>
+            <br>
+        <label for="">I agree2 <input type="checkbox"></label>
+        <hr>
+        <label for=""> Enter your DOB <input type="date"></label>
+        <hr>
+        <label for="">Enter a time <input type="time"></label>
+        <hr>
+        <label for="">Date Or Time <input type="datetime-local"></label>
+        <br> <hr>
+        <label for=""> Enter a color <input type="color"></label>
+        <br> <hr>
+        <label for="">Enter a range <input type="range"></label>
+        <br> <hr>
+        <label for=""> Serch <input type="search"></label>
+        <br> <hr>
+        <label for="">Input type number <input type="number"></label>
+        <br> <hr>
+        <label for="">Gender<input type="radio" name="a">Male
+         <input type="radio" name="a">Female
+         <input type="radio" name="a">other </label>
+         <br> <hr>
+         <label for="">
+            selectcourses   </label>
+            <input type="checkbox">full stack
+            <input type="checkbox">AI
+            <input type="checkbox">AI AND ML
+       <hr> <br>
+       <label for="">Enter state</label>
+       <select>
+        <option selected disabled>
+            select 
+        </option>
+        <option >
+            mp
+        </option>
+        <option >
+            Punjab
+        </option>
+        <option >
+            Gujrat
+        </option>
+        <option >
+            JK 
+        </option>
+       </select>
+    </form>
+</body>
+</html>
